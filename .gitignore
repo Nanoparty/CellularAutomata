@@ -1,6 +1,11 @@
 # Prerequisites
 *.d
 
+Cellular Automata\Cellular Automata\x64\*
+
+Cellular Automata\x64\*
+Cellular Automata\.vs\*
+
 # Compiled Object files
 *.slo
 *.lo
